@@ -13,7 +13,7 @@ It fetches weather data using an API and displays it in a clean, responsive UI.
 
 ## 📌 Features
 - 🌍 Search weather by city name  
-- 🌡️ Displays temperature, humidity, and weather conditions  
+- 🌡️ Displays temperature
 - 📱 Mobile-friendly responsive UI  
 - ⚡ Fast deployment with Render  
 
