@@ -1,0 +1,48 @@
+body {
+  background:url("../image/bg1.jpg") no-repeat center center fixed;
+
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Segoe UI", sans-serif;
+
+
+}
+
+.weather-app {
+  border-radius: 20px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(10px);
+}
+
+.weather-left {
+  background: rgba(255, 255, 255, 0.6);
+  border-right: 1px solid rgba(0,0,0,0.1);
+}
+
+.weather-right {
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.city-title {
+  font-weight: bold;
+}
+
+.weather-icon {
+  width: 100px;
+}
+
+.temperature {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 10px 0;
+  color: #0077b6;
+}
+
+.description {
+  font-size: 1.3rem;
+  font-weight: 500;
+}
