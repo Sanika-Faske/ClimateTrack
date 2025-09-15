@@ -6,7 +6,8 @@ It fetches weather data using an API and displays it in a clean, responsive UI.
 ---
 
 ## 🚀 Live Demo
-🔗 [View Project on Render]([https://climatetrack.onrender.com/])
+🔗 [View Project on Render](https://climatetrack.onrender.com/)
+
 
 ---
 
